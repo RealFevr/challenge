@@ -50,7 +50,7 @@ In this challenge you'll be able to do just that!
 - Good design options
 - How to install and run the code
 
-Ideally the stack on the challenge should be similar to the one used on Realfevr ou feel morebut some other options are also going to be accepted (feel free to use what you feel more comfortable with).
+Ideally the stack on the challenge should be similar to the one used on Realfevr or feel morebut some other options are also going to be accepted (feel free to use what you feel more comfortable with).
 - Ruby
 - React
 - JSON    
