@@ -9,14 +9,14 @@ In this challenge you'll be able to do just that!
 - An admin one, responsible for managing players and trigger notifications
 - An user one, responsible for listing all the players and subscribing to notifications regarding some of them
 
-### The endpoints should enable
+### The API endpoints should deliver
 - crud endpoints for players
 - crud endpoints for notifications
 - subscribing notifications
 
 ### The models to implement are the following
 
-> feel free to implement all the othe models that you feel are missing
+> feel free to implement other models you think that could be missing
 
 - players:
   - name
@@ -30,8 +30,8 @@ In this challenge you'll be able to do just that!
   - message
 
 
-### there should be a task that is responsible for fetching information regarding players and updating them on DB
-- take into consideration this APIs response simulation: (Players) [https://tbem.github.io/players-json/data/players.json]
+### there should be a task that is responsible for fetching information regarding to players and updating them on DB
+- take into consideration this API mock: (Players) [https://tbem.github.io/challenge/data/players.json]
   
 ### there should be a task responsible for deleting notifications older then one week
 
@@ -58,7 +58,8 @@ Ideally the stack on the challenge should be similar to the one used on Realfevr
 > pro tips: 
 >- Don't waste to much time on the layout and on the testing part of the frontend
 >- The notifications could be sent with some mock emailer
-
+>- Send us github repos links or if you prefere you can zip all the projects folders and send us with a README instructions. Just use git on each one to see your commits progress. 
+> Take the time you need, don't feel pressured on time, we know you're working and have a life too, so take the time you need for sending a solution. 
 
 
 
