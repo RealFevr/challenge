@@ -5,7 +5,7 @@ In this challenge you'll be able to do just that!
 
 ## Considerations:
 
-### There should be two different frotend applications consuming the api endpoints
+### There should be two different frontend applications consuming the api endpoints
 - An admin one, responsible for managing players and trigger notifications
 - An user one, responsible for listing all the players and subscribing to notifications regarding some of them
 
