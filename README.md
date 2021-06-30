@@ -35,6 +35,7 @@ In this challenge you'll be able to do just that!
   
 ### there should be a task responsible for deleting notifications older then one week
 
+### a user should be notified when a notification for the players he subscribed is triggered
 
 ## Bonus
 - Sorting on player's listing based on position, nationality or age
@@ -52,7 +53,6 @@ In this challenge you'll be able to do just that!
 Ideally the stack on the challenge should be similar to the one used on Realfevr ou feel morebut some other options are also going to be accepted (feel free to use what you feel more comfortable with).
 - Ruby
 - React
-- Sidekiq / Resque
 - JSON    
 
 > pro tips: 
@@ -60,6 +60,7 @@ Ideally the stack on the challenge should be similar to the one used on Realfevr
 >- The notifications could be sent with some mock emailer
 >- Send us github repos links or if you prefere you can zip all the projects folders and send us with a README instructions. Just use git on each one to see your commits progress. 
 > Take the time you need, don't feel pressured on time, we know you're working and have a life too, so take the time you need for sending a solution. 
+> Any doubts about the challenge can be sent to tiago.bem at realfevr.com and bruno.coelho at realfevr.com with the subject **HELP with Challenge**, as soon as we can we'll reply to you. 
 
 
 
