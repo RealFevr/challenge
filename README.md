@@ -59,8 +59,8 @@ Ideally the stack on the challenge should be similar to the one used on Realfevr
 >- Don't waste to much time on the layout and on the testing part of the frontend
 >- The notifications could be sent with some mock emailer
 >- Send us github repos links or if you prefere you can zip all the projects folders and send us with a README instructions. Just use git on each one to see your commits progress. 
-> Take the time you need, don't feel pressured on time, we know you're working and have a life too, so take the time you need for sending a solution. 
-> Any doubts about the challenge can be sent to tiago.bem at realfevr.com and bruno.coelho at realfevr.com with the subject **HELP with Challenge**, as soon as we can we'll reply to you. 
+>- Take the time you need, don't feel pressured on time, we know you're working and have a life too, so take the time you need for sending a solution. 
+>- Any doubts about the challenge can be sent to tiago.bem at realfevr.com and bruno.coelho at realfevr.com with the subject **HELP with Challenge**, as soon as we can we'll reply to you. 
 
 
 
