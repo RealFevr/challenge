@@ -31,7 +31,7 @@ In this challenge you'll be able to do just that!
 
 
 ### there should be a task that is responsible for fetching information regarding to players and updating them on DB
-- take into consideration this API mock: (Players) [https://tbem.github.io/challenge/data/players.json]
+- take into consideration this API mock: (Players) [https://github.com/RealFevr/challenge/blob/master/data/players.json]
   
 ### there should be a task responsible for deleting notifications older then one week
 
